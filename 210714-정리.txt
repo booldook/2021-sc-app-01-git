@@ -1,8 +1,8 @@
 1. git-scm.com -> git 파일 다운로드 및 next연타로 설치
 2. 터미널창 열어서(cmd)
-git config --global user.name 'booldook'
-git config --global user.email 'booldook@gmail.com'
-3. vscode 설치 및 확장기능 설치하기
+git config --global user.name 'booldook'(한번만)
+git config --global user.email 'booldook@gmail.com'(한번만)
+3. vscode 설치 및 확장기능 설치하기(한번만)
 4. 자격증명 연결하기(한번만)
 5. 연습
 - 02.git 폴더를 만들기
